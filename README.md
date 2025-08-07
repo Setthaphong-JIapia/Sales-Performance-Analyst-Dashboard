@@ -40,7 +40,7 @@ The dashboard visualizes the following metrics:
 
 > Dashboard snapshot (click to zoom):
 
-![Sales Dashboard Preview](./path-to-your-image.png)
+![Sales Dashboard Preview](https://github.com/Setthaphong-JIapia/Sales-Performance-Analyst-Dashboard/blob/main/assets/sales_analyst_dashboard.png))
 
 ---
 
